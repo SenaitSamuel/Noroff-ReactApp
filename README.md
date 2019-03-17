@@ -1,15 +1,16 @@
-# Noroff-ReactApp
- The follower project  use a boiler plate 
-Steps for 
-By means of your terminal please cd to your desktop
+# README #
+This is a blank template for a react.js application
+SASS and live reload have already been configured.
 
-clone the repo from 
-“git clone https://github.com/cameronmoodley/blank-react-template.git“  
+#How do I get set up?
+Clone the repo
 
-This project uses node 8, this means you will need to use a node versioner to get it up and running
+cd into repo
 
-So run the command nvm install 8.11.3 and then nvm use 8.11.3
+npm install
 
-run  npm install
-run npm start
+npm start
 
+#To build for production
+
+npm run build
